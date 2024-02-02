@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
-        android:text="Email: smictfoysal@gmail.com"
+        android:text="Email: mdsabbirdev007@gmail.com"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:textColor="#ffffff" />
 </LinearLayout>
